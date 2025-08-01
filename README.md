@@ -1,0 +1,1 @@
+In this "Project" i want to understand how to use git and gitbhub without big problems. At first i didnt understand how to use the terminal but by pushing trying to do the most i would say i know the basics now with the basics commands. I also want to achive this on the topic of commiting and to push and pull from github.
